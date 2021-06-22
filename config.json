@@ -1,0 +1,13 @@
+{
+  "settings": {
+    "data_dir": "data",
+    "csv_path": "test.csv",
+    "n_classes": 4,
+    "batch_size": 32,
+    "seed": 1488,
+    "cuda": 0,
+    "warm_start": 0,
+    "save_weights_path": "new_weights",
+    "load_weights_path": ""
+  }
+}
